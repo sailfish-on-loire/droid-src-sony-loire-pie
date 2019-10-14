@@ -1,7 +1,7 @@
-From ed09bfc082c3b2aa1234f0b2bb6eb5662573e7f6 Mon Sep 17 00:00:00 2001
+From 482d25c88c6ce5a588b7dbb44d290e8361293610 Mon Sep 17 00:00:00 2001
 From: Ramjee Singh <ramjee@codeaurora.org>
 Date: Wed, 6 Jun 2018 15:22:02 +0530
-Subject: [PATCH 9/9] hal: msm8916: Fix for vndk compilation errors
+Subject: [PATCH 4/4] hal: msm8916: Fix for vndk compilation errors
 
 There are few Implicit declaration compilation errors for
 not including required header files for system functions call.

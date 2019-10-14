@@ -1,4 +1,4 @@
-From b68a5aaf3bab9712ea034873c6226e152d97b32d Mon Sep 17 00:00:00 2001
+From 6abe83712ba77ae6226f8b77afd13a7bfc6de5a4 Mon Sep 17 00:00:00 2001
 From: Pablo Mendez Hernandez <pablomh@gmail.com>
 Date: Wed, 8 Aug 2018 14:59:03 +0200
 Subject: [PATCH 1/4] Add camera key long press handling

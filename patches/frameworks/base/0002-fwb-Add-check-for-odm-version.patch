@@ -1,4 +1,4 @@
-From b94d86017e66272d4d8f6a8136bad123738e52e3 Mon Sep 17 00:00:00 2001
+From e7d10cfc439587a66301ee5c767c4db6aaca4d37 Mon Sep 17 00:00:00 2001
 From: Christian Oder <myself5@carbonrom.org>
 Date: Thu, 9 Aug 2018 14:27:35 +0200
 Subject: [PATCH 2/4] fwb: Add check for odm version

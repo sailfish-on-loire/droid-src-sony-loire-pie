@@ -1,4 +1,4 @@
-From 4f57c4e3da0d5a9fa2f782abe19a2b2efc137852 Mon Sep 17 00:00:00 2001
+From 2e774d7e115a8ce1c4a3cabc8515457ca1e31d3e Mon Sep 17 00:00:00 2001
 From: "Angelo G. Del Regno" <kholk11@gmail.com>
 Date: Fri, 10 Aug 2018 09:22:30 +0200
 Subject: [PATCH 1/5] sdm: core: Update the mixer, framebuffer and display

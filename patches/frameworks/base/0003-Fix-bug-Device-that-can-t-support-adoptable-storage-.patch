@@ -1,4 +1,4 @@
-From 013b6caaabd1ff684497c8deab34cabd57216ea6 Mon Sep 17 00:00:00 2001
+From 675f660a1c087a28cc87fe4652b1b64f1c4b5442 Mon Sep 17 00:00:00 2001
 From: Sangho Yoon <sangho.yoon@lge.com>
 Date: Thu, 9 Aug 2018 14:32:27 +0200
 Subject: [PATCH 3/4] Fix bug Device that can't support adoptable storage

@@ -1,4 +1,4 @@
-From a7fc1501cdb50de913b458013d081f6443bb6112 Mon Sep 17 00:00:00 2001
+From 325fa78955a126758fbb02abe0399ea8a1cb5b24 Mon Sep 17 00:00:00 2001
 From: Alin Jerpelea <alin.jerpelea@sony.com>
 Date: Wed, 21 Nov 2018 05:56:08 +0100
 Subject: [PATCH 2/2] guard use of kernel sources
@@ -87,7 +87,7 @@ index 3f8fa799..f2fe4bff 100755
  ifeq ($(call is-platform-sdk-version-at-least, 19),true)
  # This feature is enabled for Android KK+
 diff --git a/mm-video-v4l2/vidc/venc/Android.mk b/mm-video-v4l2/vidc/venc/Android.mk
-index b271f9d9..7d060a11 100644
+index 83b8fb44..7834ceb6 100644
 --- a/mm-video-v4l2/vidc/venc/Android.mk
 +++ b/mm-video-v4l2/vidc/venc/Android.mk
 @@ -67,14 +67,17 @@ libmm-venc-inc      += $(TARGET_OUT_HEADERS)/qcom/display

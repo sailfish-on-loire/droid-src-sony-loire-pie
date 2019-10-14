@@ -1,4 +1,4 @@
-From bc6c0613154bc457cac22d024a5b998649e4870d Mon Sep 17 00:00:00 2001
+From c26db32e69f70a7d14a107e054c3a7b9d1f02899 Mon Sep 17 00:00:00 2001
 From: Humberto Borba <humberos@omnirom.org>
 Date: Sat, 1 Sep 2018 20:31:54 -0300
 Subject: [PATCH 1/2] hardware: nxp: Restore pn548 support

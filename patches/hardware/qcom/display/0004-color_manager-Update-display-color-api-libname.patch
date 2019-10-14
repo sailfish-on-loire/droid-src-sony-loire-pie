@@ -1,4 +1,4 @@
-From c179de0abdc1d27db14d1e882da0c0a461b4ae33 Mon Sep 17 00:00:00 2001
+From c0613434cb9b16ae80ef96f9172c034239df3d02 Mon Sep 17 00:00:00 2001
 From: Rajesh Yadav <ryadav@codeaurora.org>
 Date: Fri, 10 Aug 2018 09:31:01 +0200
 Subject: [PATCH 4/5] color_manager: Update display color api libname

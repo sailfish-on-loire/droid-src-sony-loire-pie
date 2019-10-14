@@ -1,6 +1,6 @@
-From e3b6f2235aa2b856933c41abd6c1e2e8cc35ece5 Mon Sep 17 00:00:00 2001
-From: Franz-Josef Haider <f_haider@gmx.at>
-Date: Wed, 19 Jun 2019 10:07:50 +0000
+From 5e8414f45bdbfce975d947c8922db0de452251ab Mon Sep 17 00:00:00 2001
+From: Matti Kosola <matti.kosola@jolla.com>
+Date: Mon, 14 Oct 2019 11:04:53 +0000
 Subject: [PATCH 1/3] Revert "bootcontrol: Add
  TARGET_USES_HARDWARE_QCOM_BOOTCTRL"
 
