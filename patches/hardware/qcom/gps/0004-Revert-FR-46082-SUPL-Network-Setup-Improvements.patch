@@ -1,7 +1,7 @@
-From 2f0198e3a3d458b79a7d9bd0e3fa9d61cc1b13e0 Mon Sep 17 00:00:00 2001
-From: Franz-Josef Haider <f_haider@gmx.at>
-Date: Wed, 19 Jun 2019 10:07:40 +0000
-Subject: [PATCH 4/6] Revert "FR 46082 - SUPL Network Setup Improvements"
+From 1d832f6df3050284f900351b78457feedd5edbc2 Mon Sep 17 00:00:00 2001
+From: Matti Kosola <matti.kosola@jolla.com>
+Date: Mon, 14 Oct 2019 11:04:43 +0000
+Subject: [PATCH 4/5] Revert "FR 46082 - SUPL Network Setup Improvements"
 
 This reverts commit 35a95e0a9bc9aeab1bb1847180babda2da5fbf90.
 ---

@@ -1,7 +1,7 @@
-From 0f395421595f7d7222fb492a79192dcafc054836 Mon Sep 17 00:00:00 2001
-From: Franz-Josef Haider <f_haider@gmx.at>
-Date: Wed, 19 Jun 2019 10:07:40 +0000
-Subject: [PATCH 3/6] Revert "Handle updating the carrier configuration"
+From 7e287dce1d4114c969060c3ebe4e3b7cf10113cb Mon Sep 17 00:00:00 2001
+From: Matti Kosola <matti.kosola@jolla.com>
+Date: Mon, 14 Oct 2019 11:04:43 +0000
+Subject: [PATCH 3/5] Revert "Handle updating the carrier configuration"
 
 This reverts commit f475797d3c031ae97a393fa3e899034836fe7ba6.
 ---

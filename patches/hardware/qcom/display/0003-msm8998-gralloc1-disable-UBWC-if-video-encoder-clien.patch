@@ -1,4 +1,4 @@
-From b19684688d3aadb726c380d16798d95aeaabf192 Mon Sep 17 00:00:00 2001
+From 392e16ba3e806cedaa4464047e8c1e574c9a9a8f Mon Sep 17 00:00:00 2001
 From: oshmoun <oshmoun100@googlemail.com>
 Date: Fri, 10 Aug 2018 09:28:52 +0200
 Subject: [PATCH 3/5] msm8998: gralloc1: disable UBWC if video encoder client

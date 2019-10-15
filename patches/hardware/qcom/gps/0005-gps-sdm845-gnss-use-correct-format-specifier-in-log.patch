@@ -1,7 +1,7 @@
-From bc9c399ee4921cb3812a075f2068e9d95063978f Mon Sep 17 00:00:00 2001
+From 7f0c98be9b6a7ceaa63ead128c92ebe85cf1d380 Mon Sep 17 00:00:00 2001
 From: oshmoun <oshmoun100@googlemail.com>
 Date: Mon, 29 Oct 2018 10:31:15 +0100
-Subject: [PATCH 6/6] gps: sdm845: gnss: use correct format specifier in log
+Subject: [PATCH 5/5] gps: sdm845: gnss: use correct format specifier in log
 
 LOC_API_ADAPTER_EVENT_MASK_T was changed from 'unsigned int' to 'uint64_t'.
 correct the format specifier used to print LOC_API_ADAPTER_EVENT_MASK_T to avoid breaking compilation of libgnss.

@@ -1,6 +1,6 @@
-From 2e34f5905fc1029b776897cd72ae32b58be40c41 Mon Sep 17 00:00:00 2001
-From: Franz-Josef Haider <f_haider@gmx.at>
-Date: Wed, 19 Jun 2019 10:07:50 +0000
+From e6d80b38412fcf326262ddaf80a997b2e7af11fc Mon Sep 17 00:00:00 2001
+From: Matti Kosola <matti.kosola@jolla.com>
+Date: Mon, 14 Oct 2019 11:04:53 +0000
 Subject: [PATCH 2/3] Revert "Android.mk: add sdm710"
 
 This reverts commit a8e07aecb24898d7d2b49cb785b0c193a4b134b4.

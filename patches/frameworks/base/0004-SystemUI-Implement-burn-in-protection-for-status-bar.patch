@@ -1,4 +1,4 @@
-From bb06b43c84cc4a8fe475b5d846fee1eb4e8cdfbb Mon Sep 17 00:00:00 2001
+From 65ed1302bcd9a4671eba7602433d927dc58c0c1f Mon Sep 17 00:00:00 2001
 From: Park Ju Hyung <qkrwngud825@gmail.com>
 Date: Sun, 15 Jan 2017 03:33:04 +0900
 Subject: [PATCH 4/4] SystemUI: Implement burn-in protection for

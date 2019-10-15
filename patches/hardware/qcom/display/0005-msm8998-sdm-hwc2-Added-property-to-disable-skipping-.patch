@@ -1,4 +1,4 @@
-From 7786d726a4c6c5565976f81a057f086e9d8b70b7 Mon Sep 17 00:00:00 2001
+From 5223db3b4579589837612bf0d0f20f2879578c89 Mon Sep 17 00:00:00 2001
 From: MarijnS95 <marijns95@gmail.com>
 Date: Fri, 10 Aug 2018 09:49:33 +0200
 Subject: [PATCH 5/5] msm8998: sdm: hwc2: Added property to disable skipping
